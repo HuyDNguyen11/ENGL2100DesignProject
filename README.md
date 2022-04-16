@@ -16,7 +16,7 @@ Core requirements:
     - Top choices are Python, R, Java, C++, Lisp, etc.
   - An AI framework. Knowing these these languages is not enough, getting comfortable with one or more AI frameworks will boost the productivity incredably. 
     - Top choices are Tensorflow, Pytorch, Keras, DL4J, etc.
-- Besides, Skills such as researching, working in group, communicating, techincal writing, presenting, etc. surely are invaluable.    
+- Besides, Skills such as researching, working in group, communicating, techincal writing, presenting, self-organizing, etc. surely are invaluable.    
 
 
 Courses:
