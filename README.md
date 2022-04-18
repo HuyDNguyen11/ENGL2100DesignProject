@@ -1,39 +1,23 @@
-Deep Learning, the path to AI.
-------------------------------------
-There has been a surge in the application of AI. More and more companies are adopting AI, and they are in need for talents with knowledge of Machine Learning and Deep Learning. Companies are paying high for people with such skills. In fact, ML/DL stands the first and second most demanded jobs in 2019, and ML is the highest pay-job.The other tops are closely related to ML/DL such as Data scientist, Computer Vision engineers. In this digital world, there is a immensely abundance amount of data that can be used. It has never been a better time to walk into the field of AI through learning ML and DL. 
+Deep Learning is the path to AI.
+-----------------------------------
 
-Researching and Applying ML/DL is a hot field that requires certain understanding of specific set of knowledge. Depending on which path(researching or applying) that the depth of understanding might differ. However, for beginners, there are some essential skills that could significantly help ones learn and understand quickly.
+There has been a surge in the application of AI. More and more companies are adopting AI, and they need talent with knowledge of machine learning and deep learning. Companies are paying high salaries for people with such skills. ML and DL stand for the first and second most demanded jobs in 2019, and ML is the highest-paid job. The other tops are closely related to ML and DL, such as data scientists and computer vision engineers. In this digital world, there is an immense abundance of data that can be used. There has never been a better time to walk into the field of AI through learning ML and DL.
 
-------------------------------------
+Researching and applying ML/DL is a hot field that requires a certain understanding of a specific set of knowledge. Depending on which path (researching or applying) is chosen, the depth of understanding might differ. However, for beginners, some essential skills could significantly quicken learning and comprehension.
 
+-----------------------------------
 Core requirements:
 - Math skills
-  - Derivative. The heart of a Deep Learning algorithm lies on the foundation of chain rules.
-  - Linear algebra. Matrix is the quick and efficient way of handling large and structured data.
-  - Statistics. At this moment, AI is built on data, a lot of, a tremendous lot of data. Information needs to be analized and structured before learnt by ML/DL algo.       
-
-
+  - Derivatives The heart of a deep learning algorithm lies in the foundation of chain rules.
+  - MatrixLinear algebra is a quick and efficient way of handling large and structured data.
+  - Statistics At this moment, AI is built on data; a lot of it. a tremendous amount of data. Information needs to be analyzed and structured before being learned by ML or DL also.
 - Programming skills:
-  - A decent knowledge of certain languages will only beneficially help one learn ML/DL. 
-    - Top choices are Python, R, Java, C++, Lisp, etc.
-  - An AI framework. Knowing these these languages is not enough, getting comfortable with one or more AI frameworks will boost the productivity incredably. 
-    - Top choices are Tensorflow, Pytorch, Keras, DL4J, etc.
-- Besides, Skills such as researching, working in group, communicating, techincal writing, presenting, self-organizing, etc. surely are invaluable.    
-
-------------------------------------
-
-Courses:
-- Coursera, edX, udemy are great platform for studying not just ML/DL. Eg:
-  - [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton) is a course on Coursera by Andrew Ng.
-  - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
-  - [Deep Learning A-Ztm](https://www.udemy.com/course/deeplearning/)
-Disclaimer: Courses on Coursera and edX have "audit" option that allows one to learn from the classes without assigments and therefore certificate. However, the price is rather low for the intensive knowledge what is being taught. For further and more structured courses, visit [deeplearning.ai](https://www.deeplearning.ai/programs/).
-
-Books:
-- ...
-- ...
-
-Ideas for applying the knowledge:
-- ...
-- ...
-
+  - Having a good understanding of certain languages will only help you learn ML or DL.
+    - The top choices are Python, R, Java, C++, Lisp, etc.
+  - A framework for artificial intelligence Knowing these languages is not enough. Getting comfortable with one or more AI frameworks will boost productivity incredibly.
+    - The top choices include Tensorflow, PyTorch, Keras, DL4J, and others. Additionally, skills such as researching, working in a group, communicating, technical writing, presenting, self-organizing, and so on are unquestionably valuable.
+- Coursera, EDX, and Udemy are excellent platforms for general learning, not just ML/DL.
+    - Andrew Ng's Coursera course, [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
+    - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
+    - [Deep Learning A-Ztm](https://www.udemy.com/course/deeplearning/)
+Courses on Coursera and EDX have an "audit" option that allows one to learn from the classes without assignments and, therefore, a certificate. However, the price is rather low for the intensive knowledge that is being taught. For further and more structured courses, visit [deeplearning.ai](deeplearning.ai).
