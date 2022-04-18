@@ -24,4 +24,6 @@ Core requirements:
     - Andrew Ng's Coursera course, [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
     - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
     - [Deep Learning A-Ztm](https://www.udemy.com/course/deeplearning/)
+    
+    
 Courses on Coursera and EDX have an "audit" option that allows one to learn from the classes without assignments and, therefore, a certificate. However, the price is rather low for the intensive knowledge that is being taught. For further and more structured courses, visit [deeplearning.ai](deeplearning.ai).
