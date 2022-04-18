@@ -16,6 +16,10 @@ Core requirements:
     - The top choices are Python, R, Java, C++, Lisp, etc.
   - A framework for artificial intelligence Knowing these languages is not enough. Getting comfortable with one or more AI frameworks will boost productivity incredibly.
     - The top choices include Tensorflow, PyTorch, Keras, DL4J, and others. Additionally, skills such as researching, working in a group, communicating, technical writing, presenting, self-organizing, and so on are unquestionably valuable.
+ 
+ ---------------------------------
+ Resources
+ 
 - Coursera, EDX, and Udemy are excellent platforms for general learning, not just ML/DL.
     - Andrew Ng's Coursera course, [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
     - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
