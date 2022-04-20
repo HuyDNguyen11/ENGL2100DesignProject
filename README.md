@@ -25,7 +25,7 @@ Core requirements:
  Course:
  
 - Coursera, EDX, and Udemy are excellent platforms for general learning, not just ML/DL.
-    - Andrew Ng's Coursera course, [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
+    - [Andrew Ng's Deep Learning Specification Course series](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
     - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
     - [Deep Learning A-Ztm](https://www.udemy.com/course/deeplearning/)
     - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFSTopButton)
