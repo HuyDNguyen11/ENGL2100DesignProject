@@ -18,12 +18,26 @@ Core requirements:
     - The top choices include Tensorflow, PyTorch, Keras, DL4J, and others. Additionally, skills such as researching, working in a group, communicating, technical writing, presenting, self-organizing, and so on are unquestionably valuable.
  
  ---------------------------------
+ 
  Resources
+ ---------------------------------
+ 
+ Course:
  
 - Coursera, EDX, and Udemy are excellent platforms for general learning, not just ML/DL.
     - Andrew Ng's Coursera course, [Deep Learning Specification](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton).
     - [Data Science: Machine Learning](https://www.edx.org/course/data-science-machine-learning?index=product&queryID=fec6a9fc4256d7c78a57f3d4ebb69d85&position=1)
     - [Deep Learning A-Ztm](https://www.udemy.com/course/deeplearning/)
-    
-    
+    - [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFSTopButton)
+       
 Courses on Coursera and EDX have an "audit" option that allows one to learn from the classes without assignments and, therefore, a certificate. However, the price is rather low for the intensive knowledge that is being taught. For further and more structured courses, visit [deeplearning.ai](deeplearning.ai).
+
+Online Books:
+
+- [Deep Learning (Adaptive Computation and Machine Learning series) ISBN-13: 978-0262035613](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning by Aston Zhan et. al.](https://d2l.ai/)
+- [Deep Learning with PyTorch](https://livebook.manning.com/book/deep-learning-with-pytorch/welcome/)
+
+Career Path:
+
+
