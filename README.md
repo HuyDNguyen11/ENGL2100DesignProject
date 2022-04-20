@@ -37,6 +37,7 @@ Online Books:
 - [Deep Learning (Adaptive Computation and Machine Learning series) ISBN-13: 978-0262035613](https://www.deeplearningbook.org/)
 - [Dive into Deep Learning by Aston Zhan et. al.](https://d2l.ai/)
 - [Deep Learning with PyTorch](https://livebook.manning.com/book/deep-learning-with-pytorch/welcome/)
+- [Notes from many DL Courses](https://aman.ai/)
 
 Career Path:
 
