@@ -40,6 +40,7 @@ Online Books:
 - [Notes from many DL Courses](https://aman.ai/)
 
 Career Path:
+
 The career path of DL/ML is various. There are many subfields that build up DL/ML. If pay is the goal, starting as ML engineer is a fascinating option. As any supervised AI system requires an enormous amount of data, Data Scientist is an great choice as it is the second most paid after ML Engineer. DL comes after those twos. Companies demands engineers with DL skills such as computational linguist, NPL, speech recognition, Image processing, etc. 
 All of the jobs requires a deep understanding of Math skills such as calculus and linear algebra. In order to apply those skills, ones is compulsory to be proficient in a certain programming language like Python, Rust, C++, etc. To step up, Ones must be trained and fluent in some ML/DL frameworks such as Tensorflow, Caffe, Pytorch, etc. On the way of learning these frameworks(or even before), focus on aquire DL/ML algorithm. To set a firm impression on all of these knowledge, challenge yourself with some of your ideas, reapply some well-known models, try to collect and analyze data, etc.
 Poccessing these skills and well honing them will open wide doors to a great number of door to DL/ML jobs.
